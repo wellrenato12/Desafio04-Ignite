@@ -1,14 +1,15 @@
-# Módulo04-Ignite
+# Desafio04-Ignite
 ## Ignite Shop
 
 ### Descrição do projeto:
-<p>Loja virtual de camisas da Rocketseat.</p>
+<p>Continuação do projeto desenvolvido no módulo 4, no qual adicionei algumas features novas.</p>
 
 ### Funcionalidades do projeto:
-<p>O projeto faz uma uma requisição na API no strapi e lista todos os produtos à venda. Após a escolha do produto, vocÊ será redirecionado à uma página de compra para finalizar o pedido.</p>
+<p>Foi adicionado ao projeto um carrinho, que permite o cliente adicionar mais de um item, diferentemente do primeiro modelo, e ao finalizar a compra os itens do carrinho são enviados a rota de checkout finalizando a compra.</p>
 
 
-### O que foi trabalhado nesse módulo:
+### Tecnologias utilizadas:
+<p>ReactJS</p>
 <p>NextJS</p>
 <p>Typescript</p>
 <p>Stitches</p>
